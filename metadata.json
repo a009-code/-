@@ -1,0 +1,6 @@
+{
+  "name": "밥은화 전남순천대점",
+  "description": "순천대학교 인근 직화 덮밥과 반그릇 김치찌개 전문점, 밥은화 전남순천대점 소개 홈페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
